@@ -1,0 +1,5 @@
+1 - nonstruct board working with depth first and random.
+2 - changed to struct board. works with depth first and random.
+3 - last use of pointer in move_agent. depth first works, breadth first seg faults.
+4 - change to non-pointer in move_agent. made iterative-dfs and given a cmd line interface.
+5 - making checksum functionality.
