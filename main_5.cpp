@@ -119,9 +119,7 @@ int main(int argc, char** argv){
 	print_board(b);
 	std::cout << get_checksum(b) << '\n' << '\n';*/
 	
-	
-	return 0;
-
+		
 	int input = run_options(b);
 	while (input != 0){
 		if (input == 1){	//Breadth first

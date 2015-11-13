@@ -3,3 +3,7 @@
 3 - last use of pointer in move_agent. depth first works, breadth first seg faults.
 4 - change to non-pointer in move_agent. made iterative-dfs and given a cmd line interface.
 5 - making checksum functionality.
+6 - integrating checksum functionality to breadth first.
+6b - fixing node run out issue.
+7 - integrating checksum to depth first search.
+8 - code clean up, removing console prints.
