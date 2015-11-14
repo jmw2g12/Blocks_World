@@ -1,0 +1,3 @@
+node_checksums = actual duplicates, don’t follow these paths
+
+node_checksums_previous_iterations = duplicates from previous iterations, don’t evaluate but follow paths

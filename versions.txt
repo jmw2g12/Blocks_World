@@ -6,4 +6,8 @@
 6 - integrating checksum functionality to breadth first.
 6b - fixing node run out issue.
 7 - integrating checksum to depth first search.
+7b - fixing iterative deepening. (didn't work)
 8 - code clean up, removing console prints.
+9 - integrating checksum to iterative depth search.
+10 - option to omit checksum functionality from breath and depth.
+11 - *new heuristic search*
