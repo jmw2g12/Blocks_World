@@ -1,0 +1,11 @@
+
+Blocks World - 23rd November
+To do:
+
+Fix iterative depth search
+
+Write A* heuristic search
+
+Make dynamically scalable
+  - Global values for value positions in completed board
+  - Ensure changing board size causes no issues

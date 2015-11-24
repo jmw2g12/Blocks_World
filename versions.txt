@@ -10,4 +10,9 @@
 8 - code clean up, removing console prints.
 9 - integrating checksum to iterative depth search.
 10 - option to omit checksum functionality from breath and depth.
-11 - *new heuristic search*
+11 - a* search implementation
+12 - changing board size works with rest of program
+13 - changing tower height works with rest of program
+14 - fixed several bugs with checksum and different board inits. stable without ids
+15 - fixing ids
+
